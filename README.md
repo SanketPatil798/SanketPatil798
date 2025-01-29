@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanketPatil798
-- 👀 I’m interested in Pyhon
-- 🌱 I’m currently learning Pythom
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on any sorce
 - 📫 How to reach me mail:-sanketlpatil00@gmail.com
 
